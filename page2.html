@@ -1,0 +1,47 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>صفحة بدون عنوان</title>
+<meta name="generator" content="WYSIWYG Web Builder 12 - http://www.wysiwygwebbuilder.com">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href="tahsili1.css" rel="stylesheet">
+<link href="page2.css" rel="stylesheet">
+<script src="jquery-1.12.4.min.js"></script>
+<script src="jquery-ui.min.js"></script>
+<script>
+$(document).ready(function()
+{
+   $("a[href*='#home']").click(function(event)
+   {
+      event.preventDefault();
+      $('html, body').stop().animate({ scrollTop: $('#home').offset().top }, 600, 'easeInQuad');
+   });
+});
+</script>
+</head>
+<body>
+<div id="home">
+<div id="home_Container">
+<div id="wb_Text2">
+<span style="color:#FF0000;font-family:Arial;font-size:20px;"><strong>عزيزي جهز نفسك</strong></span><span style="color:#FF0000;font-family:Arial;font-size:16px;"><strong> </strong></span></div>
+<div id="wb_Heading1">
+<h3 id="Heading1">باقي على هذا </h3></div>
+<div id="wb_Image2">
+<img src="images/logo2.png" id="Image2" alt=""></div>
+<div id="wb_Text4">
+<span style="color:#179894;font-family:Arial;font-size:17px;"><strong>التحصيل الدراسي</strong></span></div>
+<div id="wb_Image5">
+<img src="images/4.png" id="Image5" alt=""></div>
+<div id="wb_Image3">
+<img src="images/1.png" id="Image3" alt=""></div>
+<div id="wb_Image1">
+<img src="images/33.png" id="Image1" alt=""></div>
+<div id="wb_Shape1">
+<img src="images/img0010.png" id="Shape1" alt=""></div>
+<div id="wb_YouTube1">
+<iframe id="YouTube1" src="https://www.youtube.com/embed/jUroNr2NtKQ?rel=1&amp;autoplay=1&amp;autohide=0"></iframe></div>
+</div>
+</div>
+</body>
+</html>

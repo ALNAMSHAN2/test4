@@ -1,0 +1,757 @@
+body
+{
+   background-color: #FFFFFF;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#home
+{
+   background-color: transparent;
+   background-image: url(images/beach_bk.jpg);
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-attachment: scroll;
+   background-size: cover;
+}
+#Shape5
+{
+   border-width: 0;
+}
+#Image3
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_hours 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 2px #FFFFFF solid;
+   border-radius: 50%;
+   overflow-y: hidden;
+   padding: 20px 0px 15px 0px;
+   margin: 0;
+   text-align: center;
+}
+#wb_hours div
+{
+   text-align: center;
+}
+#wb_minutes 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 2px #FFFFFF solid;
+   border-radius: 50%;
+   overflow-y: hidden;
+   padding: 20px 0px 15px 0px;
+   margin: 0;
+   text-align: center;
+}
+#wb_minutes div
+{
+   text-align: center;
+}
+#wb_days 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 2px #FFFFFF solid;
+   border-radius: 50%;
+   overflow-y: hidden;
+   padding: 20px 0px 15px 0px;
+   margin: 0;
+   text-align: center;
+}
+#wb_days div
+{
+   text-align: center;
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text2 div
+{
+   text-align: center;
+}
+#wb_Heading1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px transparent solid;
+   border-radius: 11px;
+   padding: 0px 0px 0px 0px;
+}
+#Heading1
+{
+   color: #00008B;
+   font-family: Arial;
+   font-weight: bold;
+   font-size: 48px;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text3 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text3 div
+{
+   text-align: center;
+}
+#Image2
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image1
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_MaterialIcon1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #179894 solid;
+   text-align: center;
+   padding: 0px 0px 0px 0px;
+   vertical-align: top;
+}
+#wb_MaterialIcon1:hover
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #245580 solid;
+}
+#MaterialIcon1
+{
+   height: 33px;
+   width: 52px;
+}
+#MaterialIcon1 i
+{
+   color: #179894;
+   display: inline-block;
+   font-size: 33px;
+   line-height: 33px;
+   vertical-align: middle;
+   width: 32px;
+}
+#wb_MaterialIcon1:hover i
+{
+   color: #179894;
+}
+#wb_Text1 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text1 div
+{
+   text-align: center;
+}
+#Image4
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Text4 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px #000000 solid;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text4 div
+{
+   text-align: center;
+}
+#Image5
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Shape1
+{
+   border-width: 0;
+}
+#Shape2
+{
+   border-width: 0;
+}
+#Shape3
+{
+   border-width: 0;
+}
+#Shape4
+{
+   border-width: 0;
+}
+#wb_Shape4
+{
+   position: absolute;
+   left: 171px;
+   top: 471px;
+   width: 232px;
+   height: 43px;
+   z-index: 15;
+}
+#wb_Text1
+{
+   position: absolute;
+   left: 223px;
+   top: 105px;
+   width: 237px;
+   height: 22px;
+   text-align: center;
+   z-index: 19;
+}
+#wb_Shape5
+{
+   position: absolute;
+   left: 49px;
+   top: 400px;
+   width: 232px;
+   height: 43px;
+   z-index: 16;
+}
+#Shape1
+{
+   width: 232px;
+   height: 43px;
+}
+#Shape2
+{
+   width: 232px;
+   height: 43px;
+}
+#wb_Text2
+{
+   position: absolute;
+   left: -1200px;
+   top: -1060px;
+   width: 457px;
+   height: 24px;
+   text-align: center;
+   z-index: 3;
+}
+#Shape3
+{
+   width: 232px;
+   height: 43px;
+}
+#wb_Image1
+{
+   position: absolute;
+   left: 5px;
+   top: 0px;
+   width: 88px;
+   height: 97px;
+   z-index: 7;
+}
+#wb_Text3
+{
+   position: absolute;
+   left: 49px;
+   top: 268px;
+   width: 457px;
+   height: 48px;
+   text-align: center;
+   z-index: 5;
+}
+#wb_days
+{
+   position: absolute;
+   left: 50px;
+   top: 140px;
+   width: 124px;
+   height: 89px;
+   text-align: center;
+   z-index: 2;
+}
+#wb_Image2
+{
+   position: absolute;
+   left: 93px;
+   top: 80px;
+   width: 482px;
+   height: 17px;
+   z-index: 18;
+}
+#Shape4
+{
+   width: 232px;
+   height: 43px;
+}
+#wb_Text4
+{
+   position: absolute;
+   left: 324px;
+   top: 32px;
+   width: 174px;
+   height: 24px;
+   text-align: center;
+   z-index: 10;
+}
+#home_Container
+{
+   width: 575px;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: left;
+}
+#Shape5
+{
+   width: 232px;
+   height: 43px;
+}
+#wb_Image3
+{
+   position: absolute;
+   left: 100px;
+   top: 80px;
+   width: 440px;
+   height: 140px;
+   z-index: 0;
+}
+#wb_Image4
+{
+   position: absolute;
+   left: 223px;
+   top: 100px;
+   width: 237px;
+   height: 27px;
+   z-index: 9;
+}
+#wb_Image5
+{
+   position: absolute;
+   left: 80px;
+   top: 28px;
+   width: 234px;
+   height: 40px;
+   z-index: 11;
+}
+#wb_hours
+{
+   position: absolute;
+   left: 213px;
+   top: 140px;
+   width: 124px;
+   height: 89px;
+   text-align: center;
+   z-index: 17;
+}
+#wb_minutes
+{
+   position: absolute;
+   left: 390px;
+   top: 140px;
+   width: 124px;
+   height: 89px;
+   text-align: center;
+   z-index: 1;
+}
+#wb_MaterialIcon1
+{
+   position: absolute;
+   left: 223px;
+   top: 100px;
+   width: 52px;
+   height: 33px;
+   text-align: center;
+   z-index: 8;
+}
+#wb_Shape1
+{
+   position: absolute;
+   left: 308px;
+   top: 337px;
+   width: 232px;
+   height: 43px;
+   z-index: 12;
+}
+#wb_Shape2
+{
+   position: absolute;
+   left: 49px;
+   top: 337px;
+   width: 232px;
+   height: 43px;
+   z-index: 13;
+}
+#wb_Shape3
+{
+   position: absolute;
+   left: 308px;
+   top: 400px;
+   width: 232px;
+   height: 43px;
+   z-index: 14;
+}
+#wb_Heading1
+{
+   position: absolute;
+   left: -1218px;
+   top: -1166px;
+   width: 519px;
+   height: 82px;
+   text-align: center;
+   z-index: 4;
+}
+#home
+{
+   position: relative;
+   text-align: center;
+   width: 100%;
+   height: 100%;
+   float: left;
+   display: block;
+   z-index: 20;
+}
+@media only screen and (max-width: 802px)
+{
+#home
+{
+   visibility: visible;
+   display: inline;
+   font-size: 8px;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   background-color: transparent;
+   background-image: url(images/beach_bk.jpg);
+   background-repeat: no-repeat;
+   background-position: center center !important;
+   background-attachment: scroll;
+   background-size: cover;
+}
+#home
+{
+   margin: 0px 0px 0px 0px;
+}
+#home_Container
+{
+   width: 320px;
+}
+#wb_Shape5
+{
+   left: 49px;
+   top: 400px;
+   visibility: visible;
+   display: inline;
+}
+#wb_Image3
+{
+   left: 100px;
+   top: 80px;
+   width: 200px;
+   height: 140px;
+   visibility: visible;
+   display: inline;
+}
+#wb_hours
+{
+   left: 111px;
+   top: 140px;
+   width: 91px;
+   height: 61px;
+   visibility: visible;
+   display: inline;
+   font-size: 8px;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   background-color: transparent;
+   background-image: none;
+   border-radius: 50%;
+}
+#wb_hours
+{
+   margin: 0px 0px 0px 0px;
+   padding: 20px 0px 15px 0px;
+}
+#wb_minutes
+{
+   left: 2px;
+   top: 140px;
+   width: 91px;
+   height: 61px;
+   visibility: visible;
+   display: inline;
+   font-size: 8px;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   background-color: transparent;
+   background-image: none;
+   border-radius: 50%;
+}
+#wb_minutes
+{
+   margin: 0px 0px 0px 0px;
+   padding: 20px 0px 15px 0px;
+}
+#wb_days
+{
+   left: 219px;
+   top: 140px;
+   width: 91px;
+   height: 61px;
+   visibility: visible;
+   display: inline;
+   font-size: 8px;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   background-color: transparent;
+   background-image: none;
+   border-radius: 50%;
+}
+#wb_days
+{
+   margin: 0px 0px 0px 0px;
+   padding: 20px 0px 15px 0px;
+}
+#wb_Text2
+{
+   left: -1200px;
+   top: -1060px;
+   width: 457px;
+   height: 24px;
+   visibility: visible;
+   display: inline;
+   font-size: 8px;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   background-color: transparent;
+   background-image: none;
+}
+#wb_Text2
+{
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+}
+#wb_Heading1
+{
+   left: -1218px;
+   top: -1166px;
+   width: 519px;
+   height: 82px;
+   visibility: visible;
+   display: inline;
+   color: #00008B;
+   font-size: 48px;
+   font-family: Arial;
+   font-weight: bold;
+   font-style: normal;
+   text-decoration: none;
+   background-color: transparent;
+   background-image: none;
+   border-radius: 11px;
+}
+#wb_Text3
+{
+   left: 40px;
+   top: 250px;
+   width: 259px;
+   height: 48px;
+   visibility: visible;
+   display: inline;
+   font-size: 8px;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   background-color: transparent;
+   background-image: none;
+}
+#wb_Text3
+{
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+}
+#wb_Image2
+{
+   left: 93px;
+   top: 80px;
+   width: 227px;
+   height: 17px;
+   visibility: visible;
+   display: inline;
+}
+#wb_Image1
+{
+   left: 5px;
+   top: 0px;
+   width: 88px;
+   height: 97px;
+   visibility: visible;
+   display: inline;
+}
+#wb_MaterialIcon1
+{
+   left: 100px;
+   top: 97px;
+   width: 52px;
+   height: 33px;
+   visibility: visible;
+   display: inline;
+   color: #179894;
+   font-size: 8px;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   background-color: transparent;
+   background-image: none;
+}
+#MaterialIcon1
+{
+   width: 52px;
+   height: 33px;
+}
+#MaterialIcon1 i
+{
+   line-height: 33px;
+   font-size: 33px;
+}
+#wb_Text1
+{
+   left: 100px;
+   top: 107px;
+   width: 220px;
+   height: 22px;
+   visibility: visible;
+   display: inline;
+   font-size: 8px;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   background-color: transparent;
+   background-image: none;
+}
+#wb_Text1
+{
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+}
+#wb_Image4
+{
+   left: 105px;
+   top: 80px;
+   width: 190px;
+   height: 90px;
+   visibility: visible;
+   display: inline;
+}
+#wb_Text4
+{
+   left: 100px;
+   top: 40px;
+   width: 174px;
+   height: 24px;
+   visibility: visible;
+   display: inline;
+   font-size: 8px;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   background-color: transparent;
+   background-image: none;
+}
+#wb_Text4
+{
+   margin: 0px 0px 0px 0px;
+   padding: 0px 0px 0px 0px;
+}
+#wb_Image5
+{
+   left: 100px;
+   top: 10px;
+   width: 165px;
+   height: 22px;
+   visibility: visible;
+   display: inline;
+}
+#wb_Shape1
+{
+   left: 49px;
+   top: 540px;
+   visibility: visible;
+   display: inline;
+}
+#wb_Shape2
+{
+   left: 49px;
+   top: 337px;
+   visibility: visible;
+   display: inline;
+}
+#wb_Shape3
+{
+   left: 49px;
+   top: 470px;
+   visibility: visible;
+   display: inline;
+}
+#wb_Shape4
+{
+   left: 49px;
+   top: 610px;
+   visibility: visible;
+   display: inline;
+}
+}
